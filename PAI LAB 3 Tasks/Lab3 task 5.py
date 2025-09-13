@@ -1,5 +1,4 @@
-def is_palindrome():
-    word = input("Enter a word: ")
+def is_palindrome(word):
     word = word.lower()
 
     if word == word[::-1]:
@@ -8,3 +7,4 @@ def is_palindrome():
         print(word, "is not a palindrome")
 
 is_palindrome("madam")
+
