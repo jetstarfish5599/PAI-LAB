@@ -1,0 +1,5 @@
+Name: Me
+CNIC: 1234
+Age: 1234
+Salary: 123
+Contact: 1234
